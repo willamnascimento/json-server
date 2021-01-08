@@ -1,0 +1,102 @@
+{
+  "manutencao_grupo_rateio": [
+    {
+      "codigo": 1,
+      "nome": "teste teste teste qqqqqq",
+      "userId": "wisique",
+      "dateCreated": "",
+      "dateUpdated": "",
+      "ativo": "S"
+    },
+    {
+      "codigo": 2,
+      "ativo": "S",
+      "nome": "Novo Grupo de Rateio de gggggg",
+      "dateUpdated": "2020-12-28T20:44:59.880Z",
+      "dateCreated": "2020-10-06 12:01:34",
+      "userId": "mtncoal"
+    },
+    {
+      "codigo": 3,
+      "nome": "Regra de Upgrade",
+      "userId": "alimafr",
+      "dateCreated": "2020-10-10 17:01:34",
+      "dateUpdated": "2020-11-21 12:54:34",
+      "ativo": "N"
+    },
+    {
+      "codigo": 4,
+      "nome": "grupo",
+      "userId": "wisique",
+      "dateCreated": "2020-10-10 17:01:34",
+      "dateUpdated": "2020-11-21 12:54:34",
+      "ativo": "N"
+    },
+    {
+      "codigo": 5,
+      "ativo": "S",
+      "nome": "Grupos Corporate",
+      "dateUpdated": "2020-12-29T13:41:22.410Z",
+      "dateCreated": "2020-10-06 11:01:34",
+      "userId": "wisique"
+    },
+    {
+      "codigo": 21,
+      "nome": "Grupo de Rateio de ",
+      "userId": "mtncoal",
+      "dateCreated": "2020-10-06 12:01:34",
+      "dateUpdated": "2020-12-28T20:28:39.291Z",
+      "ativo": "N"
+    },
+    {
+      "codigo": 323,
+      "ativo": "S",
+      "nome": "Regra de Upgrade de teste 1111",
+      "dateUpdated": "2020-12-29T13:39:47.627Z",
+      "dateCreated": "2020-10-10 17:01:34",
+      "userId": "mtncoal"
+    },
+    {
+      "codigo": 42,
+      "ativo": "S",
+      "nome": "teste teste teste qqqqqq",
+      "dateUpdated": "2020-12-28T20:47:44.735Z",
+      "dateCreated": "",
+      "userId": "wisique"
+    },
+    {
+      "codigo": 41,
+      "nome": "grupo",
+      "userId": "wisique",
+      "dateCreated": "2020-10-10 17:01:34",
+      "dateUpdated": "2020-11-21 12:54:34",
+      "ativo": "N"
+    },
+    {
+      "codigo": 125,
+      "nome": "teste teste teste",
+      "userId": "wisique",
+      "dateCreated": "2020-10-10 17:01:34",
+      "dateUpdated": "2020-11-21 12:54:34",
+      "ativo": "S"
+    },
+    {
+      "codigo": 843,
+      "ativo": "S",
+      "nome": "osndfosdnof",
+      "dateUpdated": "",
+      "dateCreated": "2020-12-29T14:05:34.750Z",
+      "userId": "wisique"
+    }
+  ],
+  "manutencao_campos": [
+    {
+      "codigo": 1,
+      "descricao": "SNOSNFNSDOF",
+      "nome": "PEGSRU",
+      "dateUpdated": "",
+      "dateCreated": "2021-01-07T18:47:37.680Z",
+      "userId": "wisique"
+    }
+  ]
+}
